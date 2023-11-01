@@ -1,0 +1,32 @@
+
+Good morning mam I am going to present on the ransomware attack caused in NHS London.
+Before getting into the presentation lets see some overview of cyber attacks.
+ these are the attacks that are usally done to exploit others resourses or to steal sensitive data inorder to commit a fradulent operations such as email fraud, credit card fraud and soon.
+
+The most cyber attacked industries are listed below. they include
+*
+*
+*
+*
+History:
+  Now comes into the the history of cyber attacks there are various incidents happened which are as follows.
+
+Type sof cyber attacks:
+*
+*
+*
+
+CASE STUDY:
+
+we are going to discuss about the NHS attack caused between May 12  and may 19 in the year 2017. NHS is a popular National Health Service which contains the large database of patients health records. The attack caused the database to be prone to loss of lakhs of health records which affects the 34% of the trusts.
+
+Causes :
+The major causes includes :
+*
+*
+*
+
+Result:
+*
+*
+*
